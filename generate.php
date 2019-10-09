@@ -14,3 +14,4 @@ $generator = new Generator($repository, __DIR__.'/static/api');
 
 $generator->clearOutputDir();
 $generator->generate();
+
